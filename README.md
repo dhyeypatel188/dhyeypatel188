@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyeypatel188&label=Profile%20views&color=0e75b6&style=flat" alt="dhyeypatel188" /> </p>
 
-- 🌱 I’m currently working **Flutter**
+- 🌱 I’m currently working in **Flutter**
 
 - 💬 Ask me about **Flutter**
 
